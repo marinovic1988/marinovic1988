@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Igor Marinović .NET developer
+- 👀 I’m interested in expanding my knowledge.
